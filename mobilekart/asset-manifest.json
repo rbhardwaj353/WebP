@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WebP/mobilekart/static/css/main.50058a87.chunk.css",
+    "main.js": "/WebP/mobilekart/static/js/main.53a58d4c.chunk.js",
+    "main.js.map": "/WebP/mobilekart/static/js/main.53a58d4c.chunk.js.map",
+    "runtime-main.js": "/WebP/mobilekart/static/js/runtime-main.cd87e37a.js",
+    "runtime-main.js.map": "/WebP/mobilekart/static/js/runtime-main.cd87e37a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/WebP/mobilekart/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3504824a.chunk.js": "/WebP/mobilekart/static/js/2.3504824a.chunk.js",
+    "static/js/2.3504824a.chunk.js.map": "/WebP/mobilekart/static/js/2.3504824a.chunk.js.map",
+    "index.html": "/WebP/mobilekart/index.html",
+    "precache-manifest.dcbb3570609f01ffc3b9272d8d5fb466.js": "/WebP/mobilekart/precache-manifest.dcbb3570609f01ffc3b9272d8d5fb466.js",
+    "service-worker.js": "/WebP/mobilekart/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/WebP/mobilekart/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.50058a87.chunk.css.map": "/WebP/mobilekart/static/css/main.50058a87.chunk.css.map",
+    "static/js/2.3504824a.chunk.js.LICENSE.txt": "/WebP/mobilekart/static/js/2.3504824a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd87e37a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3504824a.chunk.js",
+    "static/css/main.50058a87.chunk.css",
+    "static/js/main.53a58d4c.chunk.js"
+  ]
+}
